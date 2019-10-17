@@ -62,7 +62,12 @@
   <ItemGroup>
     <Compile Include="Assets\DealBreaker\Scripts\AppConstants.cs" />
     <Compile Include="Assets\DealBreaker\Scripts\ColorPallete.cs" />
+    <Compile Include="Assets\DealBreaker\Scripts\DatabaseContact.cs" />
+    <Compile Include="Assets\DealBreaker\Scripts\DealForm.cs" />
+    <Compile Include="Assets\DealBreaker\Scripts\DealFormManager.cs" />
+    <Compile Include="Assets\DealBreaker\Scripts\ProfileData.cs" />
     <Compile Include="Assets\DealBreaker\Scripts\ServiceManager.cs" />
+    <Compile Include="Assets\DealBreaker\Scripts\UserFilters.cs" />
     <Compile Include="Assets\Scripts\BathroomIssues.cs" />
     <Compile Include="Assets\Scripts\DisplayNameMessage.cs" />
     <Compile Include="Assets\Scripts\Exit.cs" />

@@ -1954,7 +1954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5662793, g: 0.764151, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -3363,8 +3363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a2bc5f1e7fca4fe28a9b30fd9c99f4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GridView: {fileID: 0}
-  ListView: {fileID: 0}
 --- !u!224 &1833826725
 RectTransform:
   m_ObjectHideFlags: 0
