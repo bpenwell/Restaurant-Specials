@@ -13,15 +13,15 @@ public class ColorPallete : AppConstants
     static public Color ButtonSelected;
     static public Color ButtonText;
 
-    void Start()
+    public void Start()
     {
         //Set relevant color pallete
         //  This is referenced throughout the project, enabling you to only need to set and change colors in 1 place
         CameraBackground = Color.white;
         Text_Primary = Color.black;
-        Text_Secondary = Color.gray;
-        Background = Color.yellow;
-        Header = Color.yellow;
+        Text_Secondary = Color.grey;
+        Background = new Color(5,5,5);
+        Header = Color.red;
         ButtonDefault = Color.white;
         ButtonSelected = new Color(200, 200, 200);
         ButtonText = Color.black;
